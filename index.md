@@ -30,29 +30,6 @@ LOCATION
 </p>
 
 
-CONTACT EMAIL ADDRESS
-
-<p id="contact">
-  <strong>Contact:</strong>
-  Please email
-  {% if page.email %}
-  {% for email in page.email %}
-  {% if forloop.last and page.email.size > 1 %}
-  or
-  {% else %}
-  {% unless forloop.first %}
-  ,
-  {% endunless %}
-  {% endif %}
-  <a href='mailto:{{email}}'>{{email}}</a>
-  {% endfor %}
-  {% else %}
-  to-be-announced
-  {% endif %}
-  for more information.
-</p>
-
-
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
@@ -68,9 +45,6 @@ Everyone who participates in Carpentries activities is required to conform to th
 
 
 
-{% comment %}
-SURVEYS - DO NOT EDIT SURVEY LINKS
-{% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
@@ -79,8 +53,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <hr/>
 
 
-{% comment %}
-SCHEDULE
+<h2 id="schedule">Schedule</h2>
 
 https://calendar.lib.montana.edu/calendar/workshops/?cid=707&t=d&d=0000-00-00&cal=707&ct=43429&inc=0
 <hr/>
