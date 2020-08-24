@@ -16,13 +16,13 @@ email: ["greenwood@montana.edu","sara.mannheimer@montana.edu"]
 
 <h2 id="general">General Information</h2>
 
-INTRODUCTION
+<h3 id="introduction">Introduction</h3>
 
 R workshops hosted by the Montana State University Library, Department of Mathematical Sciences, and Statistical Consulting and Research Services.
 
 
 
-LOCATION
+<h3 id="location">Location</h3>
 
 <p id="where">
   <strong>Where:</strong> This training will take place online.
