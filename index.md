@@ -25,7 +25,7 @@ R workshops hosted by the Montana State University Library, Department of Mathem
 <h3 id="location">Location</h3>
 
 <p id="where">
-  <strong>Where:</strong> This training will take place online.
+This training will take place online.
   The instructors will provide you with the information you will need to connect to this meeting.
 </p>
 
