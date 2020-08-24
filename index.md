@@ -4,7 +4,7 @@ venue: "Montana State University"
 address: "Online"     
 country: "us"     
 language: "en"    
-humandate: "Sep 3, Sep 10, Sep 24, Oct 15, and Nov 5, 2020"   
+humandate: "September 3, September 10, September 24, October 15, and November 5, 2020"   
 humantime: "3:00 pm - 5:00 pm"    
 startdate: 2020-09-03     
 enddate: 2020-11-05       
@@ -55,5 +55,6 @@ Everyone who participates in Carpentries activities is required to conform to th
 
 <h2 id="schedule">Schedule</h2>
 
-https://calendar.lib.montana.edu/calendar/workshops/?cid=707&t=d&d=0000-00-00&cal=707&ct=43429&inc=0
+<a href="https://calendar.lib.montana.edu/calendar/workshops/?cid=707&t=d&d=0000-00-00&cal=707&ct=43429&inc=0"> View schedule and register for a workshop </a>
+
 <hr/>
