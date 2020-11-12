@@ -10,7 +10,7 @@ startdate: 2020-09-03
 enddate: 2020-11-05       
 instructor: ["Mark Greenwood", "Greta Linse", "Sara Mannheimer"] 
 helper: ["SCRS Graduate Research Assistants"]    
-email: ["greenwood@montana.edu","sara.mannheimer@montana.edu"]   
+email: ["greenwood@montana.edu", "greta.linse@montana.edu", "sara.mannheimer@montana.edu"]   
 
 ---
 
